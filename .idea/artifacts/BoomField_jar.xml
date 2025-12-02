@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="BoomField:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/BoomField_jar</output-path>
-    <root id="archive" name="BoomField.jar">
-      <element id="module-output" name="BoomField" />
-      <element id="dir-copy" path="$PROJECT_DIR$/src" />
-    </root>
-  </artifact>
-</component>
